@@ -26,8 +26,7 @@ $$
 $$
 
 
-The animation contains 60 displayed time points. **All intervening windows are included in each cumulative fit**, not only the windows shown in the animation. The streamlines show cyclic edge flows; the cumulative measure is visualized through its first moment. Both panels use the same superior view and brain outline. 
-
+The animation contains 60 displayed time points. **All intervening windows are included in each cumulative fit**, not only the windows shown in the animation. The streamlines show cyclic edge flows; the cumulative measure is visualized through its first moment. 
 
 ### Time-varying streamline animations for 3 subjects
 
